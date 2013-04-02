@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="welcome">Welcome to  JobFinder App for Android</string> 
+    <string name="app_name">Job Finder</string>
+    <string name = "contactThem">Contact Them</string>
+    <string name = "backToMe">Back To Me</string>
+    <string name = "setInterview">Set Interview</string>
+    <string name = "interviewDate">date</string>
+    <string name = "interviewHour">hour</string>
+    <string name = "update">Update</string>
+    <string name = "enterCompanyHint">Enter a Company here</string>
+    <string name = "workPlace">Workplace</string>
+    <string name = "address">Address</string>
+    <string name = "addWorkPlace">Add a workplace</string>
+    <string name = "emailAddress">Email address(es):</string>
+    <string name = "workplaceEmailHint">job@workplace.com</string>
+    <string name = "position">Position:</string>
+    <string name = "myName">My Name</string>
+    <string name = "sendEmail">Send Email</string>
+
+</resources>
